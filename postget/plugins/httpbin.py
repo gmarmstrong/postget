@@ -1,3 +1,5 @@
+#!/usr/bin/env python3
+
 # plugins/httpbin.py
 
 from postget.libplug import MetaPlugin

@@ -1,3 +1,5 @@
+#!/usr/bin/env python3
+
 # routeshout
 
 from postget.libplug import MetaPlugin

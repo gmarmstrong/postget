@@ -1,3 +1,5 @@
+#!/usr/bin/env python3
+
 # libplug.py
 
 class MetaPlugin(object):

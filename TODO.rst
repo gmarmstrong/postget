@@ -17,7 +17,6 @@ Project
 - Create directory tree (https://github.com/kriasoft/Folder-Structure-Conventions) (http://docs.python-guide.org/en/latest/writing/structure/)
 - Create skeleton project
 - Create unit tests
-- Add shebangs
 - Add docstrings
 - Implement doc generation
 - Document code
