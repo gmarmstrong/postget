@@ -7,5 +7,5 @@ from postget import libplug
 from postget.plugins import httpbin
 
 plug = httpbin.Plugin()
-plug.homepage()
-
+print(plug.homepage())
+print(plug.get("test_key", "test_val"))

@@ -20,3 +20,8 @@ class Plugin(MetaPlugin):
         self.config_urlopts("/ip")
         return reqeusts.get(self.url)
 
+    # TODO Optionally allow a dictionary of keys and values
+    def get(self, key, val):
+        self.config_urlopts("/get")
+        self.urlopts.payload_add(key, val)
+        return requests.get(self.url)
