@@ -26,10 +26,10 @@ Without PostGet
 
     import requests
 
-    def post_keyval():
-        request.get("https://example.org" + "/post", {"key": "val"})
+    def post_keyval(dict):
+        request.get("https://example.org" + "/post", dict)
 
-    post_keyval()
+    post_keyval({"key": "val"})
 
 .. TODO Building and installing PostGet
 ..      ===============================
