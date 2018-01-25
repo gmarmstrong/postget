@@ -1,6 +1,6 @@
 #!/usr/bin/env python3
 
-# main.py
+# demo.py
 
 import requests
 from postget import libplug
