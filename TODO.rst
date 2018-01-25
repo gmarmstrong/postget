@@ -9,7 +9,6 @@ Meta
 - Create ``.github/ISSUE_TEMPLATE.md`` (https://github.com/devspace/awesome-github-templates)
 - Create style guide (http://docs.python-guide.org/en/latest/writing/style/) (https://www.python.org/dev/peps/) (https://google.github.io/styleguide/pyguide.html)
 - Add license information to files
-- Use git branching
 - Finish commented documentation
 
 Project
