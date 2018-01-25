@@ -22,3 +22,4 @@ Project
 - Implement doc generation
 - Document code
 - Prototype command-line interface
+- Add requirements.txt file
