@@ -1,7 +1,5 @@
 #!/usr/bin/env python3
 
-# plugins/template.py
-
 from postget.libplug import MetaPlugin
 import requests
 
