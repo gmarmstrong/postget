@@ -4,9 +4,8 @@
 
 ## About PostGet
 
-PostGet is a Python library and plugin repository for interfacing with
-web APIs. PostGet plugins allow the developer to interface with web APIs
-as they would with Python libraries.
+PostGet is a Python library for building web API wrappers which developers can
+import as PostGet submodules.
 
 ### With PostGet
 
