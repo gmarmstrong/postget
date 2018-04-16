@@ -58,5 +58,5 @@ information on using PostGet. -->
 # Development and maintenance of PostGet
 
 See
-[CONTRIBUTING.rst](https://github.com/gmarmstrong/PostGet/blob/master/CONTRIBUTING.rst)
+[CONTRIBUTING.md](https://github.com/gmarmstrong/postget/blob/master/CONTRIBUTING.md)
 for information on PostGet development.
